@@ -16,6 +16,9 @@ body{
     row-gap: 20rem;
 }
 
+.privacy-note{
+    color:black;
+}
 main{
     display: flex;
     flex-flow: column wrap;
